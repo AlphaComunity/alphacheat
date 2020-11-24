@@ -7,21 +7,6 @@
         "versione":"0.14",
         "changelog":"Add new license system"
     },
-    "licenses": {
-        "hQf9qaNpR2SR7VFd7WEZ": {
-            "avalidable": true,
-            "type": "Lifetime",
-            "ends": "Lifetime"
-        },
-        "hJ8MJPAgtFqaZT6yZwzQ": {
-            "avalidable": false,
-            "type": "Base",
-            "ends": "Expired"
-        },
-        "UD3FDTsQGjEvX8cBTfcS": {
-            "avalidable": false,
-            "type": "Base",
-            "ends": "Expired"
-        }
+    "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "UD3FDTsQGjEvX8cBTfcS"]
     }
 }
