@@ -8,5 +8,9 @@
         "changelog":"Add new license system"
     },
     "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "UD3FDTsQGjEvX8cBTfcS"]
+    },
+    "hQf9qaNpR2SR7VFd7WEZ": {
+        "buytext": true,
+        "time": "Lifetime"
     }
 }
