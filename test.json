@@ -7,14 +7,10 @@
         "versione":"0.14",
         "changelog":"Add new license system"
     },
-    "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "UD3FDTsQGjEvX8cBTfcS"]
+    "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "DISABLED-UD3FDTsQGjEvX8cBTfcS-*DISABLED"]
     },
     "hQf9qaNpR2SR7VFd7WEZ": {
         "buytext": true,
         "time": "Lifetime"
-    },
-    "UD3FDTsQGjEvX8cBTfcS": {
-        "buytext": true,
-        "time": "29/11/2020"
     }
 }
