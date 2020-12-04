@@ -5,7 +5,7 @@
     "discordlink": "https://discord.gg/Ev9WBKy",
     "version": {
         "versione":"0.15",
-        "changelog":"Changed logging method for internal bans | Added new check for player invisibility | Removed version.json file | Reduced weight of files | Developer key implemented | Updated Config.lua and alphacheat.cfg"
+        "changelog":"Changed logging method for internal bans | Added new check for player invisibility | Removed version.json file | Reduced weight of files | Developer key implemented | Updated Config.lua and alphacheat.cfg | Updated type of sets | New check added | New bypass added"
     },
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
     "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "UD3FDTsQGjEvX8cBTfcS"]
