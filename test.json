@@ -8,7 +8,7 @@
         "changelog":"Fixed errors in deactivating modules | Added new for put in the alphacheat.cfg file | Added bug collection for creator | Minor fixes | Added message from client console"
     },
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
-    "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "UD3FDTsQGjEvX8cBTfcS"]
+    "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "nSqc6j7YTUGdrRbh8wNc"]
     },
     "hQf9qaNpR2SR7VFd7WEZ": {
         "buytext": true,
@@ -18,7 +18,7 @@
         "buytext": false,
         "time": "Lifetime"
     }
-    "UD3FDTsQGjEvX8cBTfcS": {
+    "nSqc6j7YTUGdrRbh8wNc": {
         "buytext": true,
         "time": "7/1/2021"
     }
