@@ -4,8 +4,8 @@
     "autore": "@Dracke#1095",
     "discordlink": "https://discord.gg/Ev9WBKy",
     "version": {
-        "versione":"0.15",
-        "changelog":"Changed logging method for internal bans | Added new check for player invisibility | Removed version.json file | Reduced weight of files | Developer key implemented | Updated Config.lua and alphacheat.cfg | Updated type of sets | New check added | New bypass added"
+        "versione":"0.16",
+        "changelog":"Fixed errors in deactivating modules | Added new for put in the alphacheat.cfg file | Added bug collection for creator | Minor fixes"
     },
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
     "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "UD3FDTsQGjEvX8cBTfcS"]
