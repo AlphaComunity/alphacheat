@@ -5,7 +5,7 @@
     "discordlink": "https://discord.gg/Ev9WBKy",
     "version": {
         "versione":"0.17",
-        "changelog":"Changed encryption code | updated licenses | fix log ban | fix log | new internal database inserted"
+        "changelog":"Changed encryption code | updated licenses | fix log ban | fix log | new internal database inserted | fix explosion ban"
     },
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
     "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "nSqc6j7YTUGdrRbh8wNc"]
