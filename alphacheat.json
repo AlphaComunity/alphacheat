@@ -8,18 +8,10 @@
         "changelog":"Changed encryption code | updated licenses | fix log ban | fix log | new internal database inserted | fix explosion ban"
     },
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
-    "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "hJ8MJPAgtFqaZT6yZwzQ", "nSqc6j7YTUGdrRbh8wNc"]
+    "licenses": ["hQf9qaNpR2SR7VFd7WEZ"]
     },
     "hQf9qaNpR2SR7VFd7WEZ": {
         "buytext": true,
         "time": "Lifetime"
-    },
-    "hJ8MJPAgtFqaZT6yZwzQ": {
-        "buytext": false,
-        "time": "Lifetime"
-    }
-    "nSqc6j7YTUGdrRbh8wNc": {
-        "buytext": true,
-        "time": "7/1/2021"
     }
 }
