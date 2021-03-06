@@ -5,7 +5,7 @@
     "discordlink": "https://discord.gg/Ev9WBKy",
     "version": {
         "versione":"0.18",
-        "changelog":"Changed encryption code | updated licenses | fix log ban | fix log | new internal database inserted | fix explosion ban"
+        "changelog":"Added new license checks, removed errors, added new checks for errors, fixed problems, removed parts of intuitive code"
     },
     "maxcode": 1,
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
