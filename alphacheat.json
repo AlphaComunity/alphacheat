@@ -7,7 +7,7 @@
         "versione":"0.18",
         "changelog":"Added new license checks, removed errors, added new checks for errors, fixed problems, removed parts of intuitive code, added dispute text, removed min identifier check"
     },
-    "maxcode": 1,
+    "maxcode": 2,
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
     "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "ZpGtJ8mwK3DHrDMHh5CW"]
     },
