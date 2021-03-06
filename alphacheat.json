@@ -9,10 +9,14 @@
     },
     "maxcode": 1,
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
-    "licenses": ["hQf9qaNpR2SR7VFd7WEZ"]
+    "licenses": ["hQf9qaNpR2SR7VFd7WEZ", "ZpGtJ8mwK3DHrDMHh5CW"]
     },
     "hQf9qaNpR2SR7VFd7WEZ": {
         "buytext": true,
         "time": "Lifetime"
+    },
+    "ZpGtJ8mwK3DHrDMHh5CW": {
+        "buytext": true,
+        "time": "06/05/2021"
     }
 }
