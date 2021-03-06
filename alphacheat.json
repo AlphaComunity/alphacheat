@@ -5,7 +5,7 @@
     "discordlink": "https://discord.gg/Ev9WBKy",
     "version": {
         "versione":"0.18",
-        "changelog":"Added new license checks, removed errors, added new checks for errors, fixed problems, removed parts of intuitive code"
+        "changelog":"Added new license checks, removed errors, added new checks for errors, fixed problems, removed parts of intuitive code, added dispute text"
     },
     "maxcode": 1,
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
