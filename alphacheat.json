@@ -1,6 +1,6 @@
 {   
     "active": true,
-    "maintenance": true,
+    "maintenance": false,
     "autore": "@Dracke#1095",
     "discordlink": "https://discord.gg/Ev9WBKy",
     "version": {
