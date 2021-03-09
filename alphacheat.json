@@ -5,7 +5,7 @@
     "discordlink": "https://discord.gg/Ev9WBKy",
     "version": {
         "versione":"0.19",
-        "changelog":"Fix alphacheat.cfg, Added collection of server ip, Added vpn control for player, Added proxy control for player, Added tor control for player"
+        "changelog":"Fix alphacheat.cfg, Added collection of server ip, Added vpn control for player, Added proxy control for player, Added tor control for player, Added control of cloud services, Fixed Lua Executor Checker client console error"
     },
     "maxcode": 2,
     "developerskey": "qBFrW48T6yGKaHcM3vAVKacP5W5UVX2",
